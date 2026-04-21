@@ -1,3 +1,9 @@
+/*
+Exercício 1: Mover um Círculo com o Teclado
+Objetivo: Trocar o quadrado por um círculo e movimentá-lo com as teclas W, A, S, D.
+Dica: Use GL_TRIANGLE_FAN e um for para gerar os vértices do círculo.
+*/
+
 #include <GL/glut.h>
 #include <cstdlib>
 #include <cmath> // Novo: permite usar seno e cosseno.
