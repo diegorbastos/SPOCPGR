@@ -1,3 +1,7 @@
+/*
+Desenha Casita
+*/
+
 #include <GL/glut.h>
 
 void display() {
